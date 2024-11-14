@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** at **New Yor
 - **Firebase**, **Node.js**, **Express.js**
 
 ### Blockchain & Smart Contracts
-- **Solidity**, **Ethereum**, **NFC Integration**
+- **Solidity**, **Ethereum**
 
 ### Tools & Technologies
 - **Git**, **GitHub**, **Docker**, **VS Code**
@@ -49,14 +49,10 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories for more detailed insights into my work.
 
-## GitHub Stats
-
-![Vihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VihanV10&show_icons=true&hide=prs&count_private=true&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&bg_color=1A1A1A)
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vihan-vora-553953212)
-- [Twitter](https://twitter.com/VihanVora)
 - [Email](mailto:vnv2005@nyu.edu)
 
 Thanks for stopping by! Feel free to check out my repositories, and let's connect!
