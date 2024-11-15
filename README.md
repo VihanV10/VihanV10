@@ -42,10 +42,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** at **New Yor
 
 Here are some of the projects I've worked on:
 
-- **[Decentralized University Identity System](https://github.com/VihanV10/Decentralized-University-Identity-System)**: A decentralized platform using Ethereum smart contracts to reduce identity fraud and improve transaction efficiency, integrating NFC for secure digital ID cards.
-- **[Khel](https://github.com/VihanV10/Khel)**: A full-stack React Native app for sports enthusiasts, featuring user profiles, real-time chat, and backend integration with Supabase.
-- **[React Web App with Firebase](https://github.com/VihanV10/Bruliant-Jolie)**: A web app that helps a bakery manage customer orders, leveraging Firebase for real-time data storage and authentication, resulting in a 50% increase in order processing speed.
-- **[Machine Learning Model Development](https://github.com/VihanV10/Machine-Learning-Diamonds-Pharma)**: Built and trained prediction models with over 90% accuracy using datasets on diamond prices, pharma, and heart disease, using Python, Pandas, and RandomForest.
+- **[Decentralized University Identity System](https://github.com/amani-agrawal/HackUmass)**: A decentralized platform using Ethereum smart contracts to reduce identity fraud and improve transaction efficiency, integrating NFC for secure digital ID cards.
+- **[React Web App with Firebase](https://github.com/VihanV10/Baking-Delight-Web-App)**: A web app that helps a bakery manage customer orders, leveraging Firebase for real-time data storage and authentication, resulting in a 50% increase in order processing speed.
+- **[Machine Learning Model Development](https://github.com/VihanV10/Machine-Learning-Model-Development-)**: Built and trained prediction models with over 90% accuracy using datasets on diamond prices, pharma, and heart disease, using Python, Pandas, and RandomForest.
 
 Feel free to explore my repositories for more detailed insights into my work.
 
