@@ -6,6 +6,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** at **New Yor
 [![Email](https://img.shields.io/badge/Email-vnv2005@nyu.edu-red)](mailto:vnv2005@nyu.edu)  
 [![GitHub](https://img.shields.io/badge/GitHub-VihanV10-black)](https://github.com/VihanV10)
 
+
+Portfolio: https://vihanvoraportfolio.vercel.app/
+
 ## About Me
 
 - **🧑‍💻 Software Engineer** with experience in **full-stack development**, **blockchain**, and **game development**.
